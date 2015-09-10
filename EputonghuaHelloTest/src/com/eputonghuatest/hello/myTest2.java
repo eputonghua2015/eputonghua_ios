@@ -7,7 +7,7 @@ public class myTest2 {
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.printf("hello eputonghua. Test2 .....");
+		System.out.printf("hello eputonghua. Test2 ......");
 	}
 
 }
